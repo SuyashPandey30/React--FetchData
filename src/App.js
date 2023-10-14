@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div>
-      <h1 class="title">Dummy data</h1>
+      <center><h1 class="title">Dummy data</h1></center>
       <table border="1">
         <thead>
           <tr>
