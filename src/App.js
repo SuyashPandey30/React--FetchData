@@ -12,7 +12,7 @@ function App() {
   return (
     <div>
       <center><h1 class="title">Dummy data</h1></center>
-      <table border="1">
+      <table>
         <thead>
           <tr>
             <th>S.No.</th>
